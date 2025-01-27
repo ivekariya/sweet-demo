@@ -1,0 +1,262 @@
+@media (max-width: 1199px) {
+    .header-main {
+        left: 31.5px;
+    }
+
+    .header-main .header-main-inner {
+        width: 1139.05px;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .banner-main .image .wraper .title {
+        font-size: 52px;
+    }
+
+    .banner-main .image .wraper .item-contant p {
+        font-weight: 700;
+        line-height: 60px;
+        font-size: 60px;
+        align-self: center;
+    }
+
+    .collection-main .collection-contant .contant-inner .contant .subtitle {
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 34px;
+        margin-bottom: 10px;
+    }
+
+    .collection-main .collection-contant .block-left {
+        width: 33.33%;
+    }
+
+    .collection-main .collection-contant .block-right {
+        width: 66.67%;
+    }
+
+    .liner-container {
+        font-size: 24px;
+    }
+
+    .liner-container h4 {
+        font-weight: 500;
+        line-height: 35px;
+    }
+
+    .collection-main .collection-contant .block-right .block-right-inner {
+        background-position: center top !important;
+    }
+
+    .test-main .test-main-inner .block-right .cake-contant .title {
+        line-height: 34px;
+        font-size: 24px;
+    }
+
+    .test-main .test-main-inner .block-right .liner-container h4 {
+        line-height: 38px;
+        font-size: 28px;
+    }
+
+    .test-main .test-main-inner .block-right .survice .item .item-inner .info-box-icon {
+        font-weight: 600;
+    }
+
+    .product-main .product-container {
+        padding: 80px 15px 60px;
+    }
+
+    .footer-main .footer-main-inner .footer-contant .title {
+        font-weight: 500;
+        font-size: 16px;
+    }
+
+    .footer-main .footer-main-inner .footer-contant .item .recent-content .info-title>a {
+        font-weight: 500;
+    }
+
+    .header-main .header-main-inner .menu-inner .title .sub-menu-home {
+        left: -32px;
+    }
+
+    /* .category-main-inner .block-left .product-img .img.zoomed {
+        transform: none;
+    }
+    .category-main-inner .block-left img {
+        position: inherit !important;
+        transform: inherit !important;
+    } */
+    .owl-theme .owl-dots .owl-dot span {
+        height: 10px !important;
+    }
+
+    .owl-theme .owl-dots .owl-dot.active span {
+        background-color: #000 !important;
+        border-color: #000 !important;
+    }
+
+    .owl-theme .owl-dots .owl-dot span {
+        background-color: #fff !important;
+        border: 2px solid rgb(187, 187, 187);
+        box-sizing: border-box;
+    }
+
+    .ant-drawer-content-wrapper {
+        width: 345px !important;
+    }
+}
+
+@media (max-width: 991px) {
+    .header-main {
+        position: inherit;
+        top: 0;
+        left: 0;
+    }
+    .header-main .header-main-inner {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    .banner-main .image .wraper {
+        padding-top: 0;
+    }
+    .banner-main .container-move {
+        padding: 35px 15px 35px;
+    }
+    .collection-main .collection-contant .contant-inner .info {
+        font-size: 14px;
+    }
+    .collection-main .collection-contant .block-right .block-right-inner .item .item-inner .info-box-contant h4 {
+        font-size: 22px;
+        line-height: 28.6px;
+    }
+    .collection-main .owl-nav span {
+        width: 40px;
+        height: 40px;
+        display: inline-block;
+        font-size: 40px;
+        line-height: 33px;
+        color: rgb(165, 165, 165);
+    }
+    .test-main .test-main-inner .block-left {
+        width: 100%;
+        text-align: center;
+    }
+    .test-main .test-main-inner .block-right {
+        width: 100%;
+    }
+    .test-main .test-main-inner .block-right p {
+        font-size: 14px;
+    }
+    .test-main .test-main-inner .block-right p {
+        font-size: 16px;
+    }
+    .product-main .product-title p {
+        font-size: 14px;
+        max-width: 60%;
+    }
+    .sub-title {
+        line-height: 35px;
+        font-size: 24px;
+    }
+    .product-main .product-items .item {
+        padding: 0 10px;
+        margin-bottom: 20px;
+    }
+    .liner-container {
+        font-size: 28px;
+    }
+    .process-main .process-title p {
+        font-size: 14px;
+        max-width: 60%;
+    }
+    .process-main .process-contant-main .block-middel {
+        display: none;
+    }
+    .process-main .process-contant-main .block-left { 
+        width: 50%;
+    }
+    .process-main .process-contant-main .block-right {
+        width: 50%;
+    }
+    .process-main .process-contant-main .item:hover .item-inner {
+        background-color: #e8f0f7;
+        transition: all .25s ease;
+        box-shadow: 2px 3px 14px rgba(0,0,0,.16);
+    }
+    .process-main .process-contant-main .item:hover .process-contant .step h3 {
+        color: #16527f;
+    }
+    .process-main .process-contant-main .item:hover .process-contant .info p {
+        color: rgb(119, 119, 119);
+    }
+    .process-main .process-contant-main .item:hover .process-contant .info a {
+        color: rgb(51, 51, 51);
+    }
+    .process-main .process-contant-main .item .process-contant .info a:hover {
+        opacity: inherit;
+    }
+    .artical-main .artical-title p {
+        font-size: 14px;
+        max-width: 60%;
+    }
+    .artical-main {
+        padding-bottom: 100px !important;
+    }
+    .artical-main .owl-nav span {
+        width: 40px;
+        height: 40px;
+        font-size: 40px;
+    }
+    .artical-main .artical-info .item .image .blog-contant .post-title a {
+        font-size: 17px !important;
+    }
+    .artical-main .artical-info .item {
+        padding: 0 10px;
+    }
+    .artical-main .artical-info .item .image .blog-contant {
+        width: 83%;
+    }
+    .artical-main .artical-info .item .image .blog-contant .post-title a {
+        font-size: 22px;
+        color: #fff;
+        font-weight: 500;
+        line-height: 25.2px;
+    }
+    .artical-main .artical-info .item .image .entry-meta .entry-meta-deta .author >span {
+        display: none;
+    }
+    .footer-main .footer-main-inner .footer-contant .item {
+        width: 50%;
+    }
+    .footer-main .footer-main-inner .footer-contant .item-1 {
+        width: 33.33%;
+    }
+    .footer-bottom .footer-bottom-inner {
+        text-align: center;
+    }
+    .footer-bottom .footer-bottom-inner {
+        display: block;
+    }
+    .footer-bottom .footer-bottom-inner .block-left {
+        max-width: 100%;
+        margin-bottom: 15px;
+    }
+    .footer-bottom .footer-bottom-inner .block-right {
+        max-width: 100%;
+    }
+    .category-main-inner .block-right .product-title {
+        line-height: 28.8px;
+        font-size: 24px;
+    }
+    .category-main-inner .block-right .price .raguler-price {
+        font-size: 20.8px;
+        line-height: 24.9667px;
+    }
+    .category-main-inner .block-right .price .discount-price {
+        font-size: 20.8px;
+        line-height: 24.9667px;
+    }
+}
