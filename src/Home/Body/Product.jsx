@@ -61,11 +61,11 @@ const Product = () => {
                                         <div className="cart-info">
                                             <ul className="info">
                                                 <li>
-                                                    <Button type="primary" onClick={showDrawer}>
-                                                        <span><GrCart /></span> 
+                                                    <Button className="cart" type="primary" onClick={showDrawer}>
+                                                        <span><GrCart /></span>
                                                     </Button>
                                                     <Drawer title="Shopping cart" onClose={onClose} open={open}>
-                                                        <AddProduct/>
+                                                        <AddProduct />
                                                     </Drawer>
                                                     <div className="tooltip-lable">Add to cart</div>
                                                 </li>
@@ -73,7 +73,7 @@ const Product = () => {
                                                     <div className="tooltip-lable">Compare</div>
                                                 </li>
                                                 <li><span>
-                                                    <Search item="White Cake" disc="119.00" reguler="$199.00" image="assets/img/prod-1-opt-430x468.jpg.webp" />
+                                                    <Search className="search" item="White Cake" disc="119.00" reguler="$199.00" image="assets/img/prod-1-opt-430x468.jpg.webp" />
                                                 </span>
                                                     <div className="tooltip-lable">Quick view</div>
                                                 </li>
