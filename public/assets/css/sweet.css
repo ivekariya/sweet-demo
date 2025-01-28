@@ -395,19 +395,15 @@ h3 {
 	padding: 0 10px;
 	box-sizing: border-box;
 } */
-/* :where(.css-dev-only-do-not-override-djtmh8).ant-btn-primary {
+.my-account .ant-btn{
 	background-color: transparent !important;
 	color: rgb(51, 51, 51) !important;
 	border: 0 !important;
 	box-shadow: none !important;
 	padding: 0 10px !important;
 	box-sizing: border-box !important;
-} */
-:where(.css-djtmh8).ant-btn-primary {
-	color: rgb(51, 51, 51) !important;
-	background: transparent !important;
-	box-shadow: none !important;
 }
+
 /* .ant-btn.css-dev-only-do-not-override-djtmh8.ant-btn-primary span {
 	text-transform: uppercase;
 	font-size: 13px;
