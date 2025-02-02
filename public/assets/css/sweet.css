@@ -3713,11 +3713,11 @@ h3 {
 	display: none;
 }
 
-.ant-modal.css-dev-only-do-not-override-djtmh8 {
-	margin: 25px auto;
+.ant-modal{
+	margin: 25px auto !important;
 	width: 860px !important;
-	padding: 30px;
-	top: 0;
+	padding: 30px !important;
+	top: 0 !important;
 }
 
 :where(.css-dev-only-do-not-override-djtmh8).ant-modal .ant-modal-content {

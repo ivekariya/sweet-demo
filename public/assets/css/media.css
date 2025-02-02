@@ -260,3 +260,43 @@
         line-height: 24.9667px;
     }
 }
+
+@media (max-width: 576px) {
+    .header-main .header-main-inner .menu {
+        display: none;
+    }
+    .header-main .header-main-inner .cart-info {
+        display: none;
+        width: 21.94%;
+    }
+    .header-main .header-main-inner .logo {
+        width: 100%;
+        align-content: center;
+        text-align: center;
+        height: 60px;
+    }
+    .banner-main .image .wraper .title {
+        font-size: 22px;
+        line-height: 32px;
+        margin-bottom: 10px;
+    }
+    .banner-main .image .wraper .item-contant p {
+        font-weight: 700;
+        line-height: 60px;
+        font-size: 48PX;
+        align-self: center;
+    }
+    .banner-main .image .wraper .title p {
+        line-height: 32px;
+    }
+    .zoom-in {
+        display: none;
+    }
+    .banner-main .container-move {
+        padding: 60px 38px 60px;
+    }
+}
+
+@media (max-width: 576px) {
+    
+}
