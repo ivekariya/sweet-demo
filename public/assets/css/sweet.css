@@ -2121,7 +2121,7 @@ h3 {
 	transition: width 0.4s cubic-bezier(.19, 1, .22, 1) !important;
 }
 
-:where(.css-dev-only-do-not-override-djtmh8).ant-tabs .ant-tabs-tab {
+.ant-tabs-tab {
 	color: rgba(51, 51, 51, 0.7) !important;
 	text-transform: uppercase !important;
 	font-weight: 500 !important;
@@ -2130,18 +2130,18 @@ h3 {
 	position: relative !important;
 }
 
-.product-info-main :where(.css-dev-only-do-not-override-djtmh8).ant-tabs-top>.ant-tabs-nav .ant-tabs-ink-bar,
-:where(.css-dev-only-do-not-override-djtmh8).ant-tabs-top>div>.ant-tabs-nav .ant-tabs-ink-bar {
+.product-info-main .ant-tabs-ink-bar,
+.ant-tabs-ink-bar {
 	top: 0 !important;
 }
 
-.product-info-main :where(.css-dev-only-do-not-override-djtmh8).ant-tabs .ant-tabs-ink-bar {
+ .ant-tabs-ink-bar {
 	position: absolute !important;
 	background: #fd4680 !important;
 	pointer-events: none !important;
 }
 
-:where(.css-dev-only-do-not-override-djtmh8).ant-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+.ant-tabs-tab-btn {
 	color: rgb(51, 51, 51) !important;
 	border: 0 !important;
 	text-shadow: none !important;
