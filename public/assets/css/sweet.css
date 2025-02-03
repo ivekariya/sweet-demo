@@ -2940,17 +2940,17 @@ h3 {
 	color: rgb(51, 51, 51) !important;
 }
 
-.ant-tabs-top>.ant-tabs-nav::before,
-.ant-tabs-bottom>.ant-tabs-nav::before,
-.ant-tabs-top>div>.ant-tabs-nav::before,
-.ant-tabs-bottom>div>.ant-tabs-nav::before {
+.shop-content-main-inner .ant-tabs-top>.ant-tabs-nav::before,
+.shop-content-main-inner .ant-tabs-bottom>.ant-tabs-nav::before,
+.shop-content-main-inner .ant-tabs-top>div>.ant-tabs-nav::before,
+.shop-content-main-inner .ant-tabs-bottom>div>.ant-tabs-nav::before {
 	content: none !important;
 }
 
-.ant-tabs-top>.ant-tabs-nav::before,
-.ant-tabs-bottom>.ant-tabs-nav::before,
-.ant-tabs-top>div>.ant-tabs-nav::before,
-.ant-tabs-bottom>div>.ant-tabs-nav::before {
+.shop-content-main-inner .ant-tabs-top>.ant-tabs-nav::before,
+.shop-content-main-inner .ant-tabs-bottom>.ant-tabs-nav::before,
+.shop-content-main-inner .ant-tabs-top>div>.ant-tabs-nav::before,
+.shop-content-main-inner .ant-tabs-bottom>div>.ant-tabs-nav::before {
 	position: inherit !important;
 
 }
